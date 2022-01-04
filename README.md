@@ -1,3 +1,3 @@
 # hello-world
 Just me figuring out how to use GitHub.
-I am trying out branching, and will try to commit very shortly.
+I tried out branching, committing changes, creating a pull request, and merging the pull request. It was easy.
